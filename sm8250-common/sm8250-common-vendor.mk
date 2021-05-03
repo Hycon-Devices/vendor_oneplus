@@ -82,6 +82,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8250-common/proprietary/system_ext/lib64/libmmrtpencoder.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libmmrtpencoder.so \
     vendor/oneplus/sm8250-common/proprietary/system_ext/lib64/libnqnfc-nci.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libnqnfc-nci.so \
     vendor/oneplus/sm8250-common/proprietary/system_ext/lib64/libnqnfc_nci_jni.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libnqnfc_nci_jni.so \
+    vendor/oneplus/sm8250-common/proprietary/system_ext/lib64/libsn100nfc_nci_jni.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libsn100nfc_nci_jni.so \
     vendor/oneplus/sm8250-common/proprietary/system_ext/lib64/libwfdclient.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libwfdclient.so \
     vendor/oneplus/sm8250-common/proprietary/system_ext/lib64/libwfdcommonutils.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libwfdcommonutils.so \
     vendor/oneplus/sm8250-common/proprietary/system_ext/lib64/libwfdconfigutils.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libwfdconfigutils.so \
